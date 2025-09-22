@@ -14,6 +14,7 @@ const promisePlayers = fetchPlayes();
 function App() {
   const [toggle, setToggle] = useState(true);
   const [availableBalance, setAvailableBalance] = useState(600000000);
+  const [purchasePlayers, setPurchasePlayers] = useState([]);
 
   return (
     <>
@@ -54,10 +55,12 @@ function App() {
             promisePlayers={promisePlayers}
             availableBalance={availableBalance}
             setAvailableBalance={setAvailableBalance}
+            purchasePlayers={purchasePlayers}
+            setPurchasePlayers={setPurchasePlayers}
           />
         </Suspense>
       ) : (
-        <SelectedPlayers />
+        <SelectedPlayers purchasePlayers={purchasePlayers} />
       )}
     </>
   );

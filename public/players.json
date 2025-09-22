@@ -1,0 +1,124 @@
+[
+  {
+    "id": "3f7c2a9e-91e3-4bfb-9b4b-1e95e5a8c1a1",
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "rating": 9.1,
+    "batting_style": "Left-Hand-Bat",
+    "price": 2000000,
+    "image_url": "https://i.ibb.co.com/S4gCKZfw/sakib.jpg"
+  },
+  {
+    "id": "6d4a5e21-0f32-4f4a-b239-8cb5c9079f7a",
+    "name": "Tamim Iqbal",
+    "country": "Bangladesh",
+    "role": "Batsman",
+    "rating": 9.2,
+    "batting_style": "Left-Hand-Bat",
+    "price": 1200000,
+    "image_url": "https://i.ibb.co.com/GQT3ZSt5/Tamim-Iqbal.jpg"
+  },
+  {
+    "id": "8e93b72a-bc3f-4e84-bb61-24ad64c76f31",
+    "name": "Mushfiqur Rahim",
+    "country": "Bangladesh",
+    "role": "Wicket-Keeper",
+    "rating": 9,
+    "batting_style": "Right-Hand-Bat",
+    "price": 1100000,
+    "image_url": "https://i.ibb.co.com/Q3z2m3Xv/Mushfiqur-Rahim.jpg"
+  },
+  {
+    "id": "c05f8d94-ec83-47b5-9fa4-fcf71a86b0d9",
+    "name": "Mahmudullah Riyad",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "rating": 8,
+    "batting_style": "Right-Hand-Bat",
+    "price": 950000,
+    "image_url": "https://i.ibb.co.com/C3bJ8ZyV/Mahmudullah-Riyad.jpg"
+  },
+  {
+    "id": "f33a2a7c-4034-4e7a-9b2d-9187f17d0c1b",
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "role": "Bowler",
+    "rating": 8.5,
+    "batting_style": "Left-Hand-Bat",
+    "price": 1300000,
+    "image_url": "https://i.ibb.co.com/rKDnx4pJ/Mustafizur-Rahman.jpg"
+  },
+  {
+    "id": "7d2f49f3-3cf1-46e3-9292-27c8b0a7f68d",
+    "name": "Liton Das",
+    "country": "Bangladesh",
+    "role": "Wicket-Keeper",
+    "rating": 7,
+    "batting_style": "Right-Hand-Bat",
+    "price": 1150000,
+    "image_url": "https://i.ibb.co.com/RpKtwGrK/litondas.jpg"
+  },
+  {
+    "id": "5a3f2c61-09ad-4f8a-a8c4-415ab1b34e47",
+    "name": "Andre Russell",
+    "country": "West Indies",
+    "role": "All-Rounder",
+    "rating": 9.9,
+    "batting_style": "Right-Hand-Bat",
+    "price": 2500000,
+    "image_url": "https://i.ibb.co.com/Ft6QtK6/Andre-Russell.jpg"
+  },
+  {
+    "id": "d28d75a1-3279-42b5-b9f0-6d59e4c1f45f",
+
+    "name": "Chris Gayle",
+    "country": "West Indies",
+    "role": "Batsman",
+    "rating": 10,
+    "batting_style": "Left-Hand-Bat",
+    "price": 2200000,
+    "image_url": "https://i.ibb.co.com/hxM9KsdV/Chris-Gayle.jpg"
+  },
+  {
+    "id": "2b5d9a2e-7469-4a36-9241-2632c72f8d40",
+
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "role": "Batsman",
+    "rating": 12,
+    "batting_style": "Right-Hand-Bat",
+    "price": 2400000,
+    "image_url": "https://i.ibb.co.com/fVnTNqTj/AB-de-Villiers.jpg"
+  },
+  {
+    "id": "b8f4d927-05f7-49b8-93e1-1f4e3d8901c7",
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": 10,
+    "batting_style": "Left-Hand-Bat",
+    "price": 2300000,
+    "image_url": "https://i.ibb.co.com/F4DF6VNF/David-Warner.jpg"
+  },
+  {
+    "id": "fa92c4e6-9bc3-40a1-91a4-3b9639cb2a6a",
+    "name": "Sunil Narine",
+    "country": "West Indies",
+    "role": "All-Rounder",
+    "rating": 8.9,
+    "batting_style": "Left-Hand-Bat",
+    "price": 1600000,
+    "image_url": "https://i.ibb.co.com/TMPtfcST/Sunil-Narine.jpg"
+  },
+  {
+    "id": "9c7d4a54-284f-4825-812f-835dd36b7c5d",
+    "name": "Kieron Pollard",
+    "country": "West Indies",
+    "role": "All-Rounder",
+    "rating": 9.5,
+    "batting_style": "Right-Hand-Bat",
+    "price": 2100000,
+    "image_url": "https://i.ibb.co.com/238rzPqt/Kieron-Pollard.jpg"
+  }
+]
